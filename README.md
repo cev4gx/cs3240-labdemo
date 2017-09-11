@@ -1,1 +1,1 @@
-# cs3240-labdemo editing on my machine now
+# cs3240-labdemo edit for activity 2
